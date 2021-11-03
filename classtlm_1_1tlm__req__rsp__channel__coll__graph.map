@@ -1,0 +1,25 @@
+<map id="tlm::tlm_req_rsp_channel&lt; REQ, RSP, REQ_CHANNEL, RSP_CHANNEL &gt;" name="tlm::tlm_req_rsp_channel&lt; REQ, RSP, REQ_CHANNEL, RSP_CHANNEL &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="363,1429,574,1653"/>
+<area shape="rect" id="node2" title=" " alt="" coords="222,1128,361,1205"/>
+<area shape="rect" id="node3" href="$classtlm_1_1tlm__fifo.html" title=" " alt="" coords="577,967,745,1367"/>
+<area shape="rect" id="node4" href="$classtlm_1_1tlm__fifo__get__if.html" title=" " alt="" coords="581,840,743,917"/>
+<area shape="rect" id="node5" href="$classtlm_1_1tlm__get__peek__if.html" title=" " alt="" coords="197,677,369,754"/>
+<area shape="rect" id="node22" href="$classtlm_1_1tlm__fifo__get__if.html" title=" " alt="" coords="194,840,357,917"/>
+<area shape="rect" id="node6" href="$classtlm_1_1tlm__get__if.html" title=" " alt="" coords="353,430,491,507"/>
+<area shape="rect" id="node7" href="$classtlm_1_1tlm__blocking__get__if.html" title=" " alt="" coords="519,139,666,246"/>
+<area shape="rect" id="node13" href="$classtlm_1_1tlm__blocking__get__peek__if.html" title=" " alt="" coords="515,423,662,515"/>
+<area shape="rect" id="node8" title=" " alt="" coords="519,5,666,83"/>
+<area shape="rect" id="node9" href="$classtlm_1_1tlm__nonblocking__get__if.html" title=" " alt="" coords="172,132,315,253"/>
+<area shape="rect" id="node11" href="$classtlm_1_1tlm__blocking__peek__if.html" title=" " alt="" coords="339,139,495,246"/>
+<area shape="rect" id="node12" href="$classtlm_1_1tlm__nonblocking__peek__if.html" title=" " alt="" coords="5,132,148,253"/>
+<area shape="rect" id="node15" href="$classtlm_1_1tlm__fifo__debug__if.html" title=" " alt="" coords="637,640,770,791"/>
+<area shape="rect" id="node18" href="$classtlm_1_1tlm__blocking__put__if.html" title=" " alt="" coords="874,292,1021,384"/>
+<area shape="rect" id="node19" href="$classtlm_1_1tlm__nonblocking__put__if.html" title=" " alt="" coords="724,277,867,399"/>
+<area shape="rect" id="node14" href="$classtlm_1_1tlm__nonblocking__get__peek__if.html" title=" " alt="" coords="15,423,157,515"/>
+<area shape="rect" id="node10" href="$classtlm_1_1tlm__peek__if.html" title=" " alt="" coords="182,430,329,507"/>
+<area shape="rect" id="node16" href="$classtlm_1_1tlm__fifo__put__if.html" title=" " alt="" coords="954,840,1117,917"/>
+<area shape="rect" id="node23" href="$classtlm_1_1tlm__fifo__put__if.html" title=" " alt="" coords="767,840,930,917"/>
+<area shape="rect" id="node17" href="$classtlm_1_1tlm__put__if.html" title=" " alt="" coords="788,539,925,616"/>
+<area shape="rect" id="node20" title=" " alt="" coords="381,840,556,917"/>
+<area shape="rect" id="node21" href="$classtlm_1_1tlm__fifo.html" title=" " alt="" coords="385,967,553,1367"/>
+</map>

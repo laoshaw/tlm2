@@ -1,0 +1,11 @@
+<map id="tlm_utils::passthrough_target_socket_optional&lt; MODULE, BUSWIDTH, TYPES &gt;" name="tlm_utils::passthrough_target_socket_optional&lt; MODULE, BUSWIDTH, TYPES &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="274,1035,510,1185"/>
+<area shape="rect" id="node2" href="$classtlm__utils_1_1passthrough__target__socket__b.html" title=" " alt="" coords="285,733,499,987"/>
+<area shape="rect" id="node3" href="$classtlm_1_1tlm__target__socket.html" title=" " alt="" coords="196,535,391,685"/>
+<area shape="rect" id="node4" href="$classtlm_1_1tlm__base__target__socket.html" title=" " alt="" coords="202,233,385,487"/>
+<area shape="rect" id="node5" href="$classtlm_1_1tlm__base__socket__if.html" title=" " alt="" coords="5,5,168,185"/>
+<area shape="rect" id="node6" href="$classtlm_1_1tlm__base__target__socket__b.html" title=" " alt="" coords="192,13,395,178"/>
+<area shape="rect" id="node7" title=" " alt="" coords="419,49,592,141"/>
+<area shape="rect" id="node8" href="$classtlm__utils_1_1passthrough__socket__base.html" title=" " alt="" coords="415,564,566,656"/>
+<area shape="rect" id="node9" href="$classtlm__utils_1_1convenience__socket__base.html" title=" " alt="" coords="411,292,571,428"/>
+</map>

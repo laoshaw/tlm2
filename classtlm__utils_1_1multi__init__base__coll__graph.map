@@ -1,0 +1,11 @@
+<map id="tlm_utils::multi_init_base&lt; BUSWIDTH, TYPES, N, POL &gt;" name="tlm_utils::multi_init_base&lt; BUSWIDTH, TYPES, N, POL &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="367,836,566,1016"/>
+<area shape="rect" id="node2" href="$classtlm_1_1tlm__initiator__socket.html" title=" " alt="" coords="183,608,361,788"/>
+<area shape="rect" id="node3" href="$classtlm_1_1tlm__base__initiator__socket.html" title=" " alt="" coords="181,277,363,560"/>
+<area shape="rect" id="node4" href="$classtlm_1_1tlm__base__socket__if.html" title=" " alt="" coords="5,27,168,207"/>
+<area shape="rect" id="node5" href="$classtlm_1_1tlm__base__initiator__socket__b.html" title=" " alt="" coords="192,5,352,229"/>
+<area shape="rect" id="node6" title=" " alt="" coords="377,57,586,178"/>
+<area shape="rect" id="node7" href="$classtlm__utils_1_1multi__init__base__if.html" title=" " alt="" coords="385,630,548,766"/>
+<area shape="rect" id="node8" href="$classtlm__utils_1_1multi__socket__base.html" title=" " alt="" coords="573,659,761,737"/>
+<area shape="rect" id="node9" href="$classtlm__utils_1_1convenience__socket__base.html" title=" " alt="" coords="587,351,747,487"/>
+</map>

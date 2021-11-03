@@ -1,0 +1,9 @@
+<map id="tlm_utils::multi_passthrough_target_socket::end_of_elaboration" name="tlm_utils::multi_passthrough_target_socket::end_of_elaboration">
+<area shape="rect" id="node1" title=" " alt="" coords="5,136,231,177"/>
+<area shape="rect" id="node2" href="$classtlm__utils_1_1convenience__socket__base.html#a775288e905b5b6b12fc30f671615eb52" title=" " alt="" coords="295,5,481,47"/>
+<area shape="rect" id="node3" href="$classtlm_1_1tlm__base__initiator__socket__b.html#ac9907db2255d7798e6a24affdefd0498" title=" " alt="" coords="288,71,488,112"/>
+<area shape="rect" id="node4" href="$classtlm__utils_1_1multi__target__base__if.html#abc6ca52489fc36ec191358db19ee8547" title=" " alt="" coords="315,136,461,177"/>
+<area shape="rect" id="node5" href="$classtlm__utils_1_1multi__passthrough__target__socket.html#ab941d69df194435dc8598edee41aaacf" title=" " alt="" coords="279,201,497,243"/>
+<area shape="rect" id="node7" href="$classtlm__utils_1_1multi__target__base__if.html#a3927aee68d250c8c3a172a5bfca5874f" title=" " alt="" coords="303,267,473,308"/>
+<area shape="rect" id="node6" href="$classtlm__utils_1_1multi__target__base.html#a5d85b2c6b4a726402ee8f06cc617d887" title=" " alt="" coords="545,201,712,243"/>
+</map>

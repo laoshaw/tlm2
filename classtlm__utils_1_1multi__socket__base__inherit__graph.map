@@ -1,0 +1,14 @@
+<map id="tlm_utils::multi_socket_base" name="tlm_utils::multi_socket_base">
+<area shape="rect" id="node1" title=" " alt="" coords="408,189,596,267"/>
+<area shape="rect" id="node3" href="$classtlm__utils_1_1multi__init__base.html" title=" " alt="" coords="10,315,237,509"/>
+<area shape="rect" id="node5" href="$classtlm__utils_1_1multi__target__base.html" title=" " alt="" coords="266,315,493,509"/>
+<area shape="rect" id="node7" href="$classtlm__utils_1_1multi__init__base.html" title=" " alt="" coords="527,322,725,502"/>
+<area shape="rect" id="node10" href="$classtlm__utils_1_1multi__target__base.html" title=" " alt="" coords="780,322,979,502"/>
+<area shape="rect" id="node2" href="$classtlm__utils_1_1convenience__socket__base.html" title=" " alt="" coords="422,5,582,141"/>
+<area shape="rect" id="node4" href="$classtlm__utils_1_1multi__passthrough__initiator__socket.html" title=" " alt="" coords="5,572,220,1104"/>
+<area shape="rect" id="node6" href="$classtlm__utils_1_1multi__passthrough__target__socket.html" title=" " alt="" coords="244,565,507,1111"/>
+<area shape="rect" id="node8" href="$classtlm__utils_1_1multi__passthrough__initiator__socket.html" title=" " alt="" coords="531,557,732,1119"/>
+<area shape="rect" id="node9" href="$classtlm__utils_1_1multi__passthrough__initiator__socket__optional.html" title=" " alt="" coords="504,1167,759,1317"/>
+<area shape="rect" id="node11" href="$classtlm__utils_1_1multi__passthrough__target__socket.html" title=" " alt="" coords="756,557,1056,1119"/>
+<area shape="rect" id="node12" href="$classtlm__utils_1_1multi__passthrough__target__socket__optional.html" title=" " alt="" coords="783,1167,1029,1317"/>
+</map>

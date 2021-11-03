@@ -1,0 +1,7 @@
+<map id="tlm::tlm_base_initiator_socket_b&lt; BUSWIDTH, FW_IF, BW_IF &gt;" name="tlm::tlm_base_initiator_socket_b&lt; BUSWIDTH, FW_IF, BW_IF &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="37,5,233,215"/>
+<area shape="rect" id="node2" href="$classtlm_1_1tlm__base__initiator__socket.html" title=" " alt="" coords="5,263,264,589"/>
+<area shape="rect" id="node3" href="$classtlm_1_1tlm__initiator__socket.html" title=" " alt="" coords="30,637,239,788"/>
+<area shape="rect" id="node4" href="$classtlm__utils_1_1multi__init__base.html" title=" " alt="" coords="21,836,248,1031"/>
+<area shape="rect" id="node5" href="$classtlm__utils_1_1multi__passthrough__initiator__socket.html" title=" " alt="" coords="27,1079,242,1611"/>
+</map>

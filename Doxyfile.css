@@ -1,0 +1,6 @@
+a[class$=".html"] {
+    font-size: 16px;
+}
+a[href^="javascript"]{
+    font-size: 16px;
+}

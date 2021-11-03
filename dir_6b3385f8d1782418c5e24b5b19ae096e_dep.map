@@ -1,0 +1,12 @@
+<map id="/tmp/systemc&#45;2.3.3/src/tlm_core/tlm_1/tlm_req_rsp/tlm_channels/tlm_req_rsp_channels" name="/tmp/systemc&#45;2.3.3/src/tlm_core/tlm_1/tlm_req_rsp/tlm_channels/tlm_req_rsp_channels">
+<area shape="rect" id="node1" href="dir_9ac4a68397ab9e1cf000509ff84a357e.html" title="tlm_fifo" alt="" coords="83,148,155,196"/>
+<area shape="rect" id="node4" href="dir_d52dd0436a442cbe017b0faa9bb2a420.html" title="tlm_1_interfaces" alt="" coords="187,244,306,292"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000008_000005.html" title="1" alt="" coords="202,219,210,234"/>
+<area shape="rect" id="node2" href="dir_6b3385f8d1782418c5e24b5b19ae096e.html" title="tlm_req_rsp_channels" alt="" coords="27,52,176,100"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000009_000008.html" title="1" alt="" coords="115,121,123,136"/>
+<area shape="rect" id="node3" href="dir_26aa423fe621164e6aeec3d34c377620.html" title="tlm_adapters" alt="" coords="198,148,295,196"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000009_000006.html" title="1" alt="" coords="196,124,204,138"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000009_000005.html" title="1" alt="" coords="294,230,302,245"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000006_000005.html" title="1" alt="" coords="251,218,259,233"/>
+<area shape="rect" id="clust1" href="dir_70743831e4db7028be81cd89218ad830.html" title="tlm_channels" alt="" coords="16,16,187,207"/>
+</map>

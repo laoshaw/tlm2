@@ -1,0 +1,10 @@
+<map id="tlm_utils::simple_initiator_socket_b&lt; MODULE, BUSWIDTH, TYPES, POL &gt;" name="tlm_utils::simple_initiator_socket_b&lt; MODULE, BUSWIDTH, TYPES, POL &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="267,821,503,987"/>
+<area shape="rect" id="node2" href="$classtlm_1_1tlm__initiator__socket.html" title=" " alt="" coords="167,608,377,773"/>
+<area shape="rect" id="node3" href="$classtlm_1_1tlm__base__initiator__socket.html" title=" " alt="" coords="181,277,363,560"/>
+<area shape="rect" id="node4" href="$classtlm_1_1tlm__base__socket__if.html" title=" " alt="" coords="5,27,168,207"/>
+<area shape="rect" id="node5" href="$classtlm_1_1tlm__base__initiator__socket__b.html" title=" " alt="" coords="192,5,352,229"/>
+<area shape="rect" id="node6" title=" " alt="" coords="377,57,586,178"/>
+<area shape="rect" id="node7" href="$classtlm__utils_1_1simple__socket__base.html" title=" " alt="" coords="401,652,599,729"/>
+<area shape="rect" id="node8" href="$classtlm__utils_1_1convenience__socket__base.html" title=" " alt="" coords="420,351,580,487"/>
+</map>
